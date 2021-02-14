@@ -1,1 +1,1 @@
-console.log("before build");
+console.log("Checker")
