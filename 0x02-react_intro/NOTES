@@ -1,0 +1,2 @@
+htmlFor: Since for is a reserved word in JavaScript, React elements use htmlFor instead
+dangerouslySetInnerHTML: insert html code like insertHTML => dangerouslySetInnerHTML={{__html: <html code>}}
